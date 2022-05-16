@@ -1,0 +1,39 @@
+.footer__container {
+  position: relative;
+  height: 146px;
+  background: #001821;
+  border-top: 1px solid  rgba (254, 254, 255, 0.1);
+  
+
+}
+
+.logo__img {
+  /* position: absolute; */
+  /* bottom: 20px; */
+  margin-top: 17px;
+}
+.menu__list {
+  color: #fff;
+  margin-top: 17px;
+}
+.social__item {
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 7px;
+}
+.social {
+  position: absolute;
+  top: 50px;
+  left: 697px;
+}
+.contacts {
+  color: #fff;
+  margin-top: 10px;
+}
+.contacts__callprice {
+  font-size: 11px;
+  line-height: 20px;
+}
+.menu {
+  vertical-align: middle;
+}

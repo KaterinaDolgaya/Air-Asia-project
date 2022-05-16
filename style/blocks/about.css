@@ -1,0 +1,32 @@
+.about {
+  margin-bottom: 64px;
+}
+.about__img {
+
+display: inline-block;
+vertical-align: top;
+width: 490px;
+height: 505px;
+
+}
+.about__content {
+  display: inline-block;
+  vertical-align: top;
+  width: 785px;
+  height: 455px;
+  background: url("../../img/mountains.png") center center / cover no-repeat;
+  padding: 70px 200px 84px 81px;
+  margin-left: -145px;
+  margin-top: 97px;
+}
+.title--black {
+  color: #000;
+  font-size: 36px;
+  line-height: 42px;
+  margin-bottom: 37px;
+
+}
+.about__content-text {
+  margin-bottom: 95px;
+  line-height: 27px;
+}
